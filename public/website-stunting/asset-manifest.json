@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/website-stunting/static/css/main.331ae64d.css",
+    "main.js": "/website-stunting/static/js/main.d4dfdbd3.js",
+    "static/js/453.d7446e4a.chunk.js": "/website-stunting/static/js/453.d7446e4a.chunk.js",
+    "index.html": "/website-stunting/index.html",
+    "main.331ae64d.css.map": "/website-stunting/static/css/main.331ae64d.css.map",
+    "main.d4dfdbd3.js.map": "/website-stunting/static/js/main.d4dfdbd3.js.map",
+    "453.d7446e4a.chunk.js.map": "/website-stunting/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.331ae64d.css",
+    "static/js/main.d4dfdbd3.js"
+  ]
+}
